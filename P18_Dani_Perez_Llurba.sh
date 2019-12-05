@@ -1,5 +1,6 @@
 #!/bin/bash
-https://github.com/a18danperllu/p18/master/P18_Dani_Perez_Llurba.sh
+#https://github.com/a18danperllu/p18/blob/master/P18_Dani_Perez_Llurba.sh
+#Practica_18
 
 # Menu
 function usage() {
